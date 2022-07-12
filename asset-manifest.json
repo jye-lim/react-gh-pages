@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jye-lim/react-gh-pages.git/static/css/main.7ca86932.css",
+    "main.js": "/jye-lim/react-gh-pages.git/static/js/main.41ddd10e.js",
+    "index.html": "/jye-lim/react-gh-pages.git/index.html",
+    "main.7ca86932.css.map": "/jye-lim/react-gh-pages.git/static/css/main.7ca86932.css.map",
+    "main.41ddd10e.js.map": "/jye-lim/react-gh-pages.git/static/js/main.41ddd10e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ca86932.css",
+    "static/js/main.41ddd10e.js"
+  ]
+}
